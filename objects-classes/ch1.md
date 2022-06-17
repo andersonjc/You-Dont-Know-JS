@@ -125,7 +125,7 @@ myObj = {
 
 ### Property Names
 
-Property names in object literals are almost always treated/coeced as string values. One exception to this is for integer (or "integer looking") property "names":
+Property names in object literals are almost always treated/coerced as string values. One exception to this is for integer (or "integer looking") property "names":
 
 ```js
 anotherObj = {
